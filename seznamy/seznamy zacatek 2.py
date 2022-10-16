@@ -7,3 +7,4 @@ for i in range(1, 10):
     seznam.append(x)
 
 print(seznam)
+#cisel je jen 9
