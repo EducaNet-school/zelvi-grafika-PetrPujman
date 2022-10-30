@@ -9,3 +9,4 @@ for i in range(pocet):
     list.append(x)
 
 print(list)
+# rada zacina od 1
